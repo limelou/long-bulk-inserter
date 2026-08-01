@@ -1,0 +1,11 @@
+{
+  "name": "Long-Bulk-Inserter",
+  "version": "1.0.0",
+  "title": "Long Bulk Inserters",
+  "author": "limelou",
+  "contact": "",
+  "homepage": "",
+  "factorio_version": "2.1",
+  "dependencies": ["base >= 2.1.7"],
+  "description": "Bulk inserter but long",
+}
