@@ -1,10 +1,10 @@
 {
-  "name": "Long-Bulk-Inserter",
+  "name": "long-bulk-inserter",
   "version": "1.0.0",
   "title": "Long Bulk Inserters",
   "author": "limelou",
-  "contact": "",
-  "homepage": "",
+  "contact": "https://github.com/limelou/long-bulk-inserter/issues",
+  "homepage": "https://github.com/limelou/long-bulk-inserter",
   "factorio_version": "2.1",
   "dependencies": ["base >= 2.1.7"],
   "description": "Bulk inserter but long",
