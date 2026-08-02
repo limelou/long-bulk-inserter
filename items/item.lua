@@ -4,7 +4,7 @@ data:extend({
   {
     type = "item",
     name = "long-handed-bulk-inserter",
-    icon = "__Long-handed_Bulk__/graphics/icon.png",
+    icon = "__long-bulk-inserter__/graphics/icon.png",
     subgroup = "inserter",
 	color_hint = { text = "P" },
     order = "e[long-handed-bulk-inserter]",

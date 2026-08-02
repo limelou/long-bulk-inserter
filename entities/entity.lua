@@ -5,7 +5,7 @@ data:extend({
   {
     type = "inserter",
     name = "long-handed-bulk-inserter",
-    icon = "__Long-handed_Bulk__/graphics/icon.png",
+    icon = "__long-bulk-inserter__/graphics/icon.png",
     flags = {"placeable-neutral", "placeable-player", "player-creation"},
 	icon_draw_specification = {scale = 0.5},
 	
@@ -48,7 +48,7 @@ data:extend({
 	
 	hand_base_picture =
     {
-      filename = "__Long-handed_Bulk__/graphics/inserter/inserter-hand-base.png",
+      filename = "__long-bulk-inserter__/graphics/inserter/inserter-hand-base.png",
       priority = "extra-high",
       width = 32,
       height = 136,
@@ -56,7 +56,7 @@ data:extend({
     },
     hand_closed_picture =
     {
-      filename = "__Long-handed_Bulk__/graphics/inserter/inserter-hand-closed.png",
+      filename = "__long-bulk-inserter__/graphics/inserter/inserter-hand-closed.png",
       priority = "extra-high",
       width = 100,
       height = 164,
@@ -64,7 +64,7 @@ data:extend({
     },
     hand_open_picture =
     {
-      filename = "__Long-handed_Bulk__/graphics/inserter/inserter-hand-open.png",
+      filename = "__long-bulk-inserter__/graphics/inserter/inserter-hand-open.png",
       priority = "extra-high",
       width = 130,
       height = 164,
@@ -98,7 +98,7 @@ data:extend({
     {
       sheet =
       {
-        filename = "__Long-handed_Bulk__/graphics/inserter/inserter-platform.png",
+        filename = "__long-bulk-inserter__/graphics/inserter/inserter-platform.png",
         priority = "extra-high",
         width = 105,
         height = 79,

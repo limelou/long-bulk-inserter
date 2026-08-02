@@ -6,7 +6,7 @@ data:extend({
 
 	type = "explosion",
     name = "lhb-inserter-explosion",
-    icon = "__Long-handed_Bulk__/graphics/icon.png",
+    icon = "__long-bulk-inserter__/graphics/icon.png",
     flags = {"not-on-map"},
     hidden = true,
     subgroup = "inserter-explosions",

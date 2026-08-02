@@ -2,7 +2,7 @@ data:extend({
   {
 	type = "corpse",
     name = "lhb-inserter-remnants",
-    icon = "__Long-handed_Bulk__/graphics/icon.png",
+    icon = "__long-bulk-inserter__/graphics/icon.png",
     flags = {"placeable-neutral", "not-on-map"},
     hidden_in_factoriopedia = true,
     subgroup = "inserter-remnants",
@@ -17,7 +17,7 @@ data:extend({
     remove_on_tile_placement = false,
     animation = make_rotated_animation_variations_from_sheet (4,
     {
-      filename = "__Long-handed_Bulk__/graphics/inserter/remnants/inserter-remnants.png",
+      filename = "__long-bulk-inserter__/graphics/inserter/remnants/inserter-remnants.png",
       line_length = 1,
       width = 132,
       height = 96,
